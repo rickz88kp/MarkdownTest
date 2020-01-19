@@ -1,0 +1,39 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Favicon
+favicon: /images/cropped-nlb-favicon.png
+
+# Agency logo
+agency-logo: /images/Exhibition-logo.png
+
+# Hero Banner
+hero-title: The First Print
+hero-subtitle: The First Print:Stories and Legends of Early Singapore
+hero-banner: /images/Exhibition-Homepage-Banner.jpg
+
+#Call to Action Button
+button:
+  - text: Learn More
+    url: /who-we-are/
+
+key-highlights:
+  - title: The First Print
+    description: Stories and Legends of Early Singapore
+    url: https://google.com
+    external: true
+  - title: The Rare Collection Gallery
+    description: Treasures from the Rare Materials Collection
+    url: https://yahoo.com
+    external: true
+  - title: Highlights of the National Gallery
+    description: Discover early Singapore from a fresh perspective
+    url: /page-A/
+
+resources-title: Exhibition Highlights
+resources-subtitle: 
+resources-more-button: More Resources
+resources-more-button-url: exhibitions/
