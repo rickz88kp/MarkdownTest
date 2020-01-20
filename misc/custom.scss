@@ -359,3 +359,32 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+
+/*event list css*/
+.event-list-wrap p {
+    font-size: 13pt;
+    text-align: justify;
+}
+.time-and-place-info-wrap p {
+    font-size: 10pt !important;
+    margin-top: 0px !important;
+    margin-bottom: 10px !important;
+    line-height: 12pt;
+    font-weight: 700;
+    color: #909090;
+}
+.event-area h3 {
+    color: #d51818;
+    font-size: 18pt;
+    font-weight: 900;
+}
+.event-list-wrap {
+    width: 48%;
+    box-shadow: 2px 2px 10px #00000020;
+    padding: 20px;
+}
+.event-area {
+    display: flex;
+    flex-wrap: wrap;
+}
