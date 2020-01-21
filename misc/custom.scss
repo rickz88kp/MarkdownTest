@@ -391,3 +391,15 @@ $desktop: 960px + (2 * $gap) !default;
     display: flex;
     flex-wrap: wrap;
 }
+.event-price {
+    position: absolute;
+    top: 0;
+    background: white;
+    right: 20px;
+    padding: 5px 20px;
+    font-weight: 100;
+    font-size: 14pt;
+}
+.event-image-wrap {
+    position: relative;
+}
