@@ -378,6 +378,9 @@ $desktop: 960px + (2 * $gap) !default;
     color: #d51818;
     font-size: 18pt;
     font-weight: 900;
+    line-height: 23pt;
+    margin-bottom: 20px;
+    margin-top: 10px;
 }
 .event-list-wrap {
     width: 48%;
