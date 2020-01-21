@@ -1,8 +1,8 @@
 current:
   - title: On Paper = Singapore Before 1867
     subfolderitems:
-      - date: 28 September 2019 – 22 March 2020
-      - time: 10.00am – 9.00pm
-      - place: Level 10, Gallery National Library Building
-      - price: free
-      - description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+      date: 28 September 2019 – 22 March 2020
+      time: 10.00am – 9.00pm
+      place: Level 10, Gallery National Library Building
+      price: free
+      description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
