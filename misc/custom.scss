@@ -460,7 +460,7 @@ $desktop: 960px + (2 * $gap) !default;
     position: relative;
     display: flex;
     align-items: flex-end;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 
 .event-tab-area .event-tab-list {
@@ -555,4 +555,8 @@ $desktop: 960px + (2 * $gap) !default;
     top: 2px;
     opacity: 0.5;
     filter: invert(100%) sepia(0%) saturate(7482%) hue-rotate(223deg) brightness(107%) contrast(105%);
+}
+
+.event-text-area {
+    margin-top: 50px;
 }
