@@ -568,3 +568,28 @@ $desktop: 960px + (2 * $gap) !default;
 .event-text-area {
     margin-top: 50px;
 }
+
+.gallery-image-popup a {
+    text-decoration: none;
+    color: white;
+    font-size: 30pt;
+    position: absolute;
+    right: 20px;
+}
+.gallery-image-popup img {
+    width: 70%;
+}
+.gallery-image-popup {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: #00000050;
+    z-index: 99;
+    display: none;
+}
+
+.gallery-image-popup:target{
+    display:flex;	
+}
