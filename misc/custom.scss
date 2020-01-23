@@ -413,3 +413,44 @@ $desktop: 960px + (2 * $gap) !default;
 .event-image-wrap {
     position: relative;
 }
+
+/*event page*/
+.event-tab-area {
+    height: 250px;
+    background-size: cover !important;
+    background-position: top !important;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 20px;
+}
+
+.event-tab-area .event-tab-list {
+    position: relative;
+    bottom: 0px;
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+    z-index: 2;
+}
+
+.event-tab-area .event-tab-list a {
+    margin-bottom: 10px;
+    font-size: 16pt;
+    text-decoration: none;
+    color: white;
+    transition: 0.3s all ease;
+    font-weight: 900;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.event-tab-area .tab-gradient-overlay {
+    position: absolute;
+    bottom: 0px;
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 100%);
+    z-index: 1;
+    height: 150px;
+    width: 100%;
+    opacity: 0.6;
+}
