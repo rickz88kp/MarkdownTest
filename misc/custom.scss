@@ -377,6 +377,42 @@ $desktop: 960px + (2 * $gap) !default;
     color: #909090;
     text-align: left;
 }
+.date-info::before {
+    content: '';
+    width: 20px;
+    height: 20px;
+    background: url(/MarkdownTest/images/calendar.png);
+    display: inline-block;
+    background-size: 20px;
+    position: relative;
+    top: 3px;
+    margin-right: 10px;
+    opacity: 0.5;
+}
+.time-info::before {
+    content: '';
+    width: 20px;
+    height: 20px;
+    background: url(/MarkdownTest/images/watch.png);
+    display: inline-block;
+    background-size: 20px;
+    position: relative;
+    top: 3px;
+    margin-right: 10px;
+    opacity: 0.5;
+}
+.place-info::before {
+    content: '';
+    width: 20px;
+    height: 20px;
+    background: url(/MarkdownTest/images/pin.png);
+    display: inline-block;
+    background-size: 20px;
+    position: relative;
+    top: 3px;
+    margin-right: 10px;
+    opacity: 0.5;
+}
 .event-area h3 {
     color: #d51818;
     font-size: 17pt;
