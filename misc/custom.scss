@@ -593,3 +593,7 @@ $desktop: 960px + (2 * $gap) !default;
 .gallery-image-popup:target{
     display:flex;	
 }
+
+.event-gallery-wrap {
+    column-count: 2;
+}
