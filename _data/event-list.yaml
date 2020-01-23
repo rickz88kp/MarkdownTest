@@ -6,7 +6,8 @@ event:
     #details
     details:
       thumbnail-name: SG-centenary-thumbnail.jpg
-      main-image-name: 
+      tab-banner-image: SG-centenary-tab-banner.jpg 
+      main-image-name: SG-centenary-main-image.jpg
       date: 12 November 2019 – 13 March 2020
       time: nodata
       place: Level 11, Lee Kong Chian Reference Library, National Library Building
