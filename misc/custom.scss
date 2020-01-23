@@ -517,10 +517,10 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .detail-price-info {
-    position: absolute;
+    position: absolute !important;
     top: 20px;
     right: 30px;
-    font-size: 15pt;
+    font-size: 15pt !important;
 }
 
 .detail-date-info::before {
