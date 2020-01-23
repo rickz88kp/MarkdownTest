@@ -16,7 +16,8 @@ event:
     #photo gallery
     gallery-tab: show
     gallery-image: 
-      - photo-link:
+      - photo-link: /centenary/1919-Centenary-gallery.jpg
+      - photo-link: /centenary/1919-Centenary-gallery_2.jpg
     #video gallery
     video-tab: show
     video-list: 
