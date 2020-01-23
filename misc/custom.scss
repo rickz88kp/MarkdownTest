@@ -513,6 +513,14 @@ $desktop: 960px + (2 * $gap) !default;
     display: block;
     overflow: auto;
     padding: 20px;
+    position:relative;
+}
+
+.detail-price-info {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    font-size: 15pt;
 }
 
 .detail-date-info::before {
