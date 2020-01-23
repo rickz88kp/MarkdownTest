@@ -454,3 +454,8 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
     opacity: 0.6;
 }
+
+.event-details-area {
+    margin-left: 20px;
+    margin-right: 20px;
+}
