@@ -2,6 +2,7 @@ event:
   - title: 1919 = The Singapore Centenary and its Celebration
     short-name: 1919
     category: current
+    url:
     #details
     details:
       thumbnail-name: SG-centenary-thumbnail.jpg
@@ -16,15 +17,21 @@ event:
     gallery-image: 
       - photo-link:
     #video gallery
-    gallery-tab: show
-    gallery-image: 
-      - photo-link:
+    video-tab: show
+    video-list: 
+      - video-link:
+        video-title:
+        video-description:
+    #highlight
+    highlight-tab: show
+    highlight-list:
+      - highlight-image:
  #
  #
   - title: On Paper = Singapore before 1867
     short-name: onpaper
-    slug: on-paper-singapore-before-1867
     category: current
+    url:
     details:
       thumbnail-name: SG-centenary-thumbnail.jpg
       main-image-name:
@@ -38,6 +45,7 @@ event:
   - title: The Rare Collection Gallery
     shortname: rarecollection
     category: current
+    url:
     details: 
       thumbnail-name: SG-centenary-thumbnail.jpg
       main-image-name:
