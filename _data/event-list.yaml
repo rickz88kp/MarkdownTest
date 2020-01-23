@@ -7,7 +7,7 @@ event:
     details:
       thumbnail-link: /centenary/SG-centenary-thumbnail.jpg
       tab-banner-image-link: /centenary/SG-centenary-tab-banner.jpg 
-      main-image-name-link: /centenary/SG-centenary-main-image.jpg
+      main-image-link: /centenary/SG-centenary-main-image.jpg
       date: 12 November 2019 – 13 March 2020
       time: nodata
       place: Level 11, Lee Kong Chian Reference Library, National Library Building
@@ -49,7 +49,7 @@ event:
     url:
     details: 
       thumbnail-link: /centenary/SG-centenary-thumbnail.jpg
-      main-image-name:
+      main-image-link:
       date: permanent
       time: This gallery is open to public during scheduled guided tours only.
       place: Level 13, Rare Gallery. National Library Building
