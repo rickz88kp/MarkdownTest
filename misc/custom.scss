@@ -376,6 +376,8 @@ $desktop: 960px + (2 * $gap) !default;
     font-weight: 700;
     color: #909090;
     text-align: left;
+    position: relative;
+    padding-left: 30px;
 }
 .date-info::before {
     content: '';
@@ -384,9 +386,9 @@ $desktop: 960px + (2 * $gap) !default;
     background: url(/MarkdownTest/images/calendar.png);
     display: inline-block;
     background-size: 20px;
-    position: relative;
-    top: 3px;
-    margin-right: 10px;
+    position: absolute;
+    left: 0px;
+    top: -1px;
     opacity: 0.5;
 }
 .time-info::before {
@@ -396,9 +398,9 @@ $desktop: 960px + (2 * $gap) !default;
     background: url(/MarkdownTest/images/watch.png);
     display: inline-block;
     background-size: 20px;
-    position: relative;
-    top: 3px;
-    margin-right: 10px;
+    position: absolute;
+    left: 0px;
+    top: -1px;
     opacity: 0.5;
 }
 .place-info::before {
@@ -408,9 +410,9 @@ $desktop: 960px + (2 * $gap) !default;
     background: url(/MarkdownTest/images/pin.png);
     display: inline-block;
     background-size: 20px;
-    position: relative;
-    top: 3px;
-    margin-right: 10px;
+    position: absolute;
+    left: 0px;
+    top: -1px;
     opacity: 0.5;
 }
 .event-area h3 {
