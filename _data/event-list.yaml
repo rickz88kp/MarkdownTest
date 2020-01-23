@@ -5,9 +5,9 @@ event:
     url:
     #details
     details:
-      thumbnail-name: SG-centenary-thumbnail.jpg
-      tab-banner-image: SG-centenary-tab-banner.jpg 
-      main-image-name: SG-centenary-main-image.jpg
+      thumbnail-link: /centenary/SG-centenary-thumbnail.jpg
+      tab-banner-image-link: /centenary/SG-centenary-tab-banner.jpg 
+      main-image-name-link: /centenary/SG-centenary-main-image.jpg
       date: 12 November 2019 – 13 March 2020
       time: nodata
       place: Level 11, Lee Kong Chian Reference Library, National Library Building
@@ -34,8 +34,8 @@ event:
     category: current
     url:
     details:
-      thumbnail-name: SG-centenary-thumbnail.jpg
-      main-image-name:
+      thumbnail-link: /centenary/SG-centenary-thumbnail.jpg
+      main-image-link:
       date: 28 September 2019 – 22 March 2020
       time: 10.00am – 9.00pm
       place: Level 10, Gallery National Library Building
@@ -48,7 +48,7 @@ event:
     category: current
     url:
     details: 
-      thumbnail-name: SG-centenary-thumbnail.jpg
+      thumbnail-link: /centenary/SG-centenary-thumbnail.jpg
       main-image-name:
       date: permanent
       time: This gallery is open to public during scheduled guided tours only.
