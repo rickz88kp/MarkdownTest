@@ -453,6 +453,12 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 /*event page*/
+.event-details-area > div:target {
+    display: block;
+}
+.event-details-area > div {
+    display: none;
+}
 .event-tab-area {
     height: 250px;
     background-size: cover !important;
