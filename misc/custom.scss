@@ -450,6 +450,15 @@ $desktop: 960px + (2 * $gap) !default;
 }
 .event-image-wrap {
     position: relative;
+    overflow: hidden;
+}
+
+.event-image-wrap img {
+    transition: 0.3s all ease;
+}
+
+.event-list-wrap:hover img {
+    transform: scale(1.2);
 }
 
 /*event page*/
