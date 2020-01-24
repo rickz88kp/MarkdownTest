@@ -476,17 +476,23 @@ $desktop: 960px + (2 * $gap) !default;
     margin-left: 10px;
     margin-right: 10px;
     z-index: 2;
+    align-items: baseline;
 }
 
 .event-tab-area .event-tab-list a {
     margin-bottom: 10px;
-    font-size: 16pt;
+    font-size: 14pt;
     text-decoration: none;
     color: white;
     transition: 0.3s all ease;
     font-weight: 900;
     margin-left: 10px;
     margin-right: 10px;
+    transition: all 0.3s ease;
+}
+
+.event-tab-area .event-tab-list a:hover {
+    font-size: 16pt;
 }
 
 .event-tab-area .tab-gradient-overlay {
