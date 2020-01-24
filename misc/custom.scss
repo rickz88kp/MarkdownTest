@@ -604,6 +604,10 @@ $desktop: 960px + (2 * $gap) !default;
     column-count: 2;
 }
 
+.event-gallery-wrap img {
+    margin-bottom:10px;	
+}
+
 .event-gallery-wrap a {
     margin-bottom: 10px;
     display: block;
