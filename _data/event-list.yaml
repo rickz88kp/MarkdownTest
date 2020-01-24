@@ -29,7 +29,7 @@ event:
     #highlight
     highlight-tab: show
     highlight-list:
-      - highlight-image:
+      - highlight-image-link:
  #
  #
   - title: On Paper = Singapore before 1867
