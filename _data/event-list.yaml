@@ -90,8 +90,8 @@ event:
       - video-link:
         video-title:
         video-description:
-     #highlight
-     highlight-tab: hide
-     highlight-list:
+    #highlight
+    highlight-tab: hide
+    highlight-list:
       - highlight-image-link:
 
