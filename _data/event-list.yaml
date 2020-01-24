@@ -27,7 +27,7 @@ event:
         video-title:
         video-description:
     #highlight
-    highlight-tab: show
+    highlight-tab: hide
     highlight-list:
       - highlight-image-link:
  #
