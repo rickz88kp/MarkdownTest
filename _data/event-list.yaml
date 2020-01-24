@@ -38,12 +38,30 @@ event:
     url:
     details:
       thumbnail-link: /centenary/SG-centenary-thumbnail.jpg
+      tab-banner-image-link:
       main-image-link:
       date: 28 September 2019 – 22 March 2020
       time: 10.00am – 9.00pm
       place: Level 10, Gallery National Library Building
       price: free
       short-description: Through carefully preserved records from not only the collections of the National Library and the National Archives of Singapore, On Paper presents a rare treat to all who are interested in our nation’s past.
+     #photo gallery
+     gallery-tab: show
+     gallery-image: 
+      - photo-link: /centenary/1919-Centenary-gallery.jpg
+      - photo-link: /centenary/1919-Centenary-gallery_2.jpg
+      - photo-link: /centenary/1919-Centenary-gallery_2.jpg
+      - photo-link: /centenary/1919-Centenary-gallery.jpg
+     #video gallery
+     video-tab: show
+     video-list: 
+      - video-link:
+        video-title:
+        video-description:
+     #highlight
+     highlight-tab: hide
+     highlight-list:
+      - highlight-image-link:
  #
  #
   - title: The Rare Collection Gallery
@@ -52,10 +70,28 @@ event:
     url:
     details: 
       thumbnail-link: /centenary/SG-centenary-thumbnail.jpg
+      tab-banner-image-link:
       main-image-link:
       date: permanent
       time: This gallery is open to public during scheduled guided tours only.
       place: Level 13, Rare Gallery. National Library Building
       price: free
       short-description: The Rare Collection Gallery showcases treasures from the National Library’s Rare Materials Collection of valuable research materials on Singapore and Southeast Asia. Comprising over 15,000 books, journals, manuscripts, maps, photographs and ephemera, many of the items in the collection were inherited from the National Library’s predecessors – the Singapore Library (1844–1874) and the Raffles Museum and Library (1874–1960). The collection is also further enhanced by recent donations from institutions and individuals.
+     #photo gallery
+     gallery-tab: show
+     gallery-image: 
+      - photo-link: /centenary/1919-Centenary-gallery.jpg
+      - photo-link: /centenary/1919-Centenary-gallery_2.jpg
+      - photo-link: /centenary/1919-Centenary-gallery_2.jpg
+      - photo-link: /centenary/1919-Centenary-gallery.jpg
+     #video gallery
+     video-tab: show
+     video-list: 
+      - video-link:
+        video-title:
+        video-description:
+     #highlight
+     highlight-tab: hide
+     highlight-list:
+      - highlight-image-link:
 
